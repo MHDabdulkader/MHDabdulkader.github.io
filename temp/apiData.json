@@ -1,0 +1,61 @@
+[
+    {
+        "SerialNo" : 1,
+        "ProductName": "Asus 15 P1511CMA",
+        "ProductType": "Laptop",
+        "ProductPrice":"45000.0",
+        "ProductImage":"img/product01.webp"
+    },
+    {
+        "SerialNo" : 2,
+        "ProductName": "Asus ExpertBook",
+        "ProductType": "Laptop",
+        "ProductPrice":"51000.0",
+        "ProductImage":"img/product02.webp"
+    },
+    {
+        "SerialNo" : 3,
+        "ProductName": "Dell inspiron 15 3511",
+        "ProductType": "Laptop",
+        "ProductPrice":"53500.0",
+        "ProductImage":"img/product03.webp"
+    },
+    {
+        "SerialNo" : 4,
+        "ProductName": "Lenovo IdeaPad",
+        "ProductType": "Laptop",
+        "ProductPrice":"40900.0",
+        "ProductImage":"img/product04.webp"
+    },
+    {
+        "SerialNo" : 5,
+        "ProductName": "HP 15s-fq5486TU",
+        "ProductType": "Laptop",
+        "ProductPrice":"62500.0",
+        "ProductImage":"img/product05.webp"
+    },
+    {
+        "SerialNo" : 6,
+        "ProductName": "Apple MacBook Air (Late 2020)",
+        "ProductType": "Laptop",
+        "ProductPrice":"160000.0",
+        "ProductImage":"img/product06.webp"
+    },
+    {
+        "SerialNo" : 7,
+        "ProductName": "OPPO F21s Pro 8GB/128GB (Pre-Book)",
+        "ProductType": "Mobile",
+        "ProductPrice":"29900.0",
+        "ProductImage":"img/product07.webp"
+    },
+    {
+        "SerialNo" : 8,
+        "ProductName": "Samsung Galaxy A04s 4GB/64GB",
+        "ProductType": "Mobile",
+        "ProductPrice":"17999.0",
+        "ProductImage":"img/product08.webp"
+    }
+
+
+
+]
